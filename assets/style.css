@@ -1,0 +1,13 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fab {
+    text-decoration: none;
+}
+
+.icon {
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+}
